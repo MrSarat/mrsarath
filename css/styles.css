@@ -11606,7 +11606,8 @@ body {
 
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 20%, rgba(0, 0, 0, 0.8) 50%), url("../assets/img/meh.jpg");;
+  background: linear-gradient(to bottom, #000 0%, rgba(0, 0, 0, 0.9) 20%, rgba(0, 0, 0, 0.8) 50%), url("../assets/img/meh.jpg");
+ 
 }
 .about-section p {
   margin-bottom: 20rem;
